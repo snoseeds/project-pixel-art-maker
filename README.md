@@ -1,4 +1,9 @@
 # Pixel Art Maker Project
+https://snoseeds.github.io/project-pixel-art-maker/
+
+The link above is to my final project after I've completed the Frond End Web Development Google Udacity Africa Challenge Scholarship.
+
+I've completed the Pixel Art Maker Project according to the instructions below.
 
 ## Table of Contents
 
